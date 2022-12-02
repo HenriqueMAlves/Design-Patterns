@@ -1,0 +1,1 @@
+void utils_printResult(int16_t* buf, uint8_t len, char* dataType);
